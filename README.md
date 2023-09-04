@@ -3,9 +3,9 @@
 # Installation methods for use
   1.Press the "<>code" button to download to your PC.
   
-  2.Unzip all. (~main.zip → UARTNET~.zip,opencv~.zip).
+  2.Unzip all. ("~main.zip" → "UARTNET~.zip","opencv~.zip").
   
-  3.Place all four files in one same folder.(UARTNET.exe,~.dll,~.dll,~.dll).
+  3.Place all four files in one same folder.("UARTNET.exe","~.dll","~.dll","~.dll").
   
   4.Run UARTNET.exe.
   
